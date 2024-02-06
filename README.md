@@ -17,4 +17,3 @@
     - 06_Credit_card_balance-FE: File Code Feature engineering for "credit_card_balance.csv"
     - feature_selection-test: File Code that used to select best features for model and proceed to test the result
     - function_for_eda: File Code that contains all function for FE process 
-    - merging-all-data: File Code that used to merge all feature from 8 tables after the process of feature engineering
