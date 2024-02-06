@@ -1,4 +1,4 @@
-# homecredit
+# Home Credit
 ### Data Preprocessed
 - <b>Exploratory Data Analysis (EDA)<b>
     - 01_Application_train-test-EDA : File Code EDA for "application_train.csv" and "application_test.csv"
